@@ -19,6 +19,3 @@ To function correctly, this skin requires the **[WebNowPlaying](https://github.c
 3. Download the latest `.rmskin` package from the [Releases](../../releases) tab.
 4. Double-click the downloaded `.rmskin` file to install the skin.
 5. Open Rainmeter and load your preferred Aeon style.
-
-## ✍️ Author
-- **Farshad Ghadiri**
